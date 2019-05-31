@@ -3,7 +3,7 @@ body {
     font-size: 18px;
     line-height: 34px;
     color: #777777;
-    background: url("../images/concrete_seamless.png");
+    background: url("images/concrete_seamless.png");
 }
 
 * {
@@ -451,10 +451,15 @@ input[type=submit] {
     border: 0 none;
 }
 
-*/
+
+/* */
+
+
 /* must link the css to responsive-portfolio (maybe drag n drop in explorer) */
 
 
 /* @media */
 
-*/
+
+/* 
+* */
